@@ -72,12 +72,12 @@ I help businesses make informed financial decisions by analyzing data, building 
 ### 🔹 Financial Statement Dashboard
 > End-to-end financial reporting and analysis for a manufacturing company using Income Statement, Balance Sheet, Cash Flow Statement, and Financial Ratios (2021–2025)
 
-- Developed a 4-page interactive Power BI dashboard featuring Executive Summary, Income Statement, Balance Sheet, and Cash Flow Statement
+- Developed a 1-page interactive Power BI dashboard featuring Executive Summary, Income Statement, Balance Sheet, and Cash Flow Statement
 - Built 40+ DAX measures for KPIs, YoY Growth, profitability, liquidity, leverage, and efficiency ratio analysis
 - Designed executive KPI cards, revenue & profit trends, expense breakdown, revenue by region/business unit, assets vs liabilities, cash flow overview, and financial ratio analysis
 - Implemented a star schema data model with Calendar, Income Statement, Balance Sheet, and Cash Flow tables for efficient reporting
 - **Tools:** Microsoft Power BI | DAX | Power Query | Data Modeling | Financial Analysis
-- 🔗 [[View Project](https://github.com/yourusername/financial-statement-powerbi-dashboard)]
+- 🔗 [[[View Project](https://github.com/pradeepkumar9787/ABC-Company-financial-statement-powerbi-dashboard)
 ---
 
 ### 🔹 Sales Performance Dashboard
