@@ -69,15 +69,15 @@ I help businesses make informed financial decisions by analyzing data, building 
 
 ---
 
-### 🔹 Website Traffic Analysis
-> End-to-end traffic analysis on ~2,000 web sessions from the Amazon Web Traffic dataset (2019–2023)
+### 🔹 Financial Statement Dashboard
+> End-to-end financial reporting and analysis for a manufacturing company using Income Statement, Balance Sheet, Cash Flow Statement, and Financial Ratios (2021–2025)
 
-- Analyzed ~2,000 web session records (2019–2023) from the Amazon Web Traffic dataset
-- Built a 4-page interactive Power BI dashboard with DAX measures (Overview, Traffic Sources, Audience Insights, Page Performance)
-- Key findings: Mobile drives 62.7% of traffic; social media leads new user acquisition (~190–200K); /contact page has highest traffic (459,904 views) but also highest bounce rate (20.89%)
-- **Tools:** Python (Pandas) | Power BI | Google Colab
-- 🔗 [View Project](https://github.com/Pranjalwaim/Syntecxhub_Website_Traffic_Analysis)
-
+- Developed a 4-page interactive Power BI dashboard featuring Executive Summary, Income Statement, Balance Sheet, and Cash Flow Statement
+- Built 40+ DAX measures for KPIs, YoY Growth, profitability, liquidity, leverage, and efficiency ratio analysis
+- Designed executive KPI cards, revenue & profit trends, expense breakdown, revenue by region/business unit, assets vs liabilities, cash flow overview, and financial ratio analysis
+- Implemented a star schema data model with Calendar, Income Statement, Balance Sheet, and Cash Flow tables for efficient reporting
+- **Tools:** Microsoft Power BI | DAX | Power Query | Data Modeling | Financial Analysis
+- 🔗 [[View Project](https://github.com/yourusername/financial-statement-powerbi-dashboard)]
 ---
 
 ### 🔹 Sales Performance Dashboard
